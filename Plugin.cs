@@ -19,7 +19,7 @@ namespace QuestFishUnlimited
 
         public override string Author => "Onusai";
         public override string Description => "Recieve a new fishing quest immediately after turning one in";
-        public override string Name => "Quest Fish Unlimited";
+        public override string Name => "QuestFishUnlimited";
         public override Version Version => new Version(1, 0, 0, 0);
 
         public QuestFishUnlimited(Main game) : base(game) { }
